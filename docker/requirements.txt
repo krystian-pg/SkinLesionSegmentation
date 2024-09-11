@@ -1,0 +1,9 @@
+segmentation-models-pytorch
+tqdm
+Pillow
+numpy
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+opencv-python-headless
